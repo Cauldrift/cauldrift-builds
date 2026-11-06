@@ -28,7 +28,7 @@ command fleets from S to XL.
 
 **Free alpha · Windows & Linux · English & German**
 
-[▶ Trailer](https://www.youtube.com/watch?v=GGccSGb2f0E) · [💬 Discord](https://discord.gg/rymrdBjQEq) · [🐞 Bugs & ideas](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) · [⬇ Download](#download)
+[▶ Trailer](https://www.youtube.com/watch?v=GGccSGb2f0E) · [💬 Discord](https://discord.gg/rymrdBjQEq) · [🐞 Bugs & ideas](https://github.com/Cauldrift/cauldrift-builds/issues/new) · [⬇ Download](#download)
 
 ### The game
 
@@ -100,9 +100,12 @@ The full guide is `SERVER_GUIDE.md`. The server package also contains a privacy 
 Cauldrift is in an **early alpha**. The graphics are a prototype and will be improved, there is no
 single-player mode yet, and balance is still in progress. Your feedback is very welcome:
 
-- **Found a bug?** Please report it on [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) (in English). The form asks for
-  everything needed to find the problem.
-- **Have an idea?** Suggest it on [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) as well (English or German). If it is
+- **Found a bug?** Please open an issue on [GitHub](https://github.com/Cauldrift/cauldrift-builds/issues/new) (in English) and include the version,
+  your operating system, whether it happens in the game or on the server, what happened and how to
+  reproduce it. A log file helps a lot: game `%APPDATA%\Godot\app_userdata\Cauldrift\logs\godot.log`
+  (Windows) or `~/.local/share/godot/app_userdata/Cauldrift/logs/godot.log` (Linux), server
+  `logs/server.log`.
+- **Have an idea?** Open an issue on [GitHub](https://github.com/Cauldrift/cauldrift-builds/issues/new) as well (English or German). If it is
   already there, give it a 👍.
 - **Questions and chat:** [Discord](https://discord.gg/rymrdBjQEq).
 
@@ -147,7 +150,7 @@ baue Stationskomplexe und führe Flotten von S bis XL.
 
 **Kostenlose Alpha · Windows & Linux · Deutsch & Englisch**
 
-[▶ Trailer](https://www.youtube.com/watch?v=0rezakc2mUE) · [💬 Discord](https://discord.gg/RgVbdfAKJw) · [🐞 Fehler & Ideen](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) · [⬇ Herunterladen](#herunterladen)
+[▶ Trailer](https://www.youtube.com/watch?v=0rezakc2mUE) · [💬 Discord](https://discord.gg/RgVbdfAKJw) · [🐞 Fehler & Ideen](https://github.com/Cauldrift/cauldrift-builds/issues/new) · [⬇ Herunterladen](#herunterladen)
 
 ### Das Spiel
 
@@ -226,9 +229,12 @@ Cauldrift ist in einer **frühen Alpha**. Die Grafik ist ein Prototyp und wird v
 Einzelspielermodus gibt es noch nicht, und an der Balance wird noch gearbeitet. Deine Rückmeldung
 ist ausdrücklich willkommen:
 
-- **Fehler gefunden?** Bitte über [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) melden (auf Englisch). Das Formular
-  fragt alles ab, was zum Finden des Fehlers nötig ist.
-- **Eine Idee?** Ebenfalls über [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) vorschlagen (Deutsch oder Englisch). Gibt es
+- **Fehler gefunden?** Bitte ein Issue auf [GitHub](https://github.com/Cauldrift/cauldrift-builds/issues/new) eröffnen (auf Englisch), mit Version,
+  Betriebssystem, ob es im Spiel oder auf dem Server passiert, was passiert ist und wie man es
+  nachstellt. Eine Logdatei hilft sehr: Spiel `%APPDATA%\Godot\app_userdata\Cauldrift\logs\godot.log`
+  (Windows) bzw. `~/.local/share/godot/app_userdata/Cauldrift/logs/godot.log` (Linux), Server
+  `logs/server.log`.
+- **Eine Idee?** Ebenfalls als Issue auf [GitHub](https://github.com/Cauldrift/cauldrift-builds/issues/new) vorschlagen (Deutsch oder Englisch). Gibt es
   sie schon, einfach mit 👍 unterstützen.
 - **Fragen und Austausch:** [Discord](https://discord.gg/RgVbdfAKJw).
 
