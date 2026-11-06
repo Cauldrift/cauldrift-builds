@@ -28,7 +28,7 @@ command fleets from S to XL.
 
 **Free alpha · Windows & Linux · English & German**
 
-[▶ Trailer](https://www.youtube.com/watch?v=GGccSGb2f0E) · [💬 Discord](https://discord.gg/rymrdBjQEq) · [⬇ Download](#download)
+[▶ Trailer](https://www.youtube.com/watch?v=GGccSGb2f0E) · [💬 Discord](https://discord.gg/rymrdBjQEq) · [🐞 Bugs & ideas](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) · [⬇ Download](#download)
 
 ### The game
 
@@ -98,8 +98,13 @@ The full guide is `SERVER_GUIDE.md`. The server package also contains a privacy 
 ### Status
 
 Cauldrift is in an **early alpha**. The graphics are a prototype and will be improved, there is no
-single-player mode yet, and balance is still in progress. Bug reports and ideas are very welcome:
-please use **#bug-reports** (in English) and **#ideas** on [Discord](https://discord.gg/rymrdBjQEq).
+single-player mode yet, and balance is still in progress. Your feedback is very welcome:
+
+- **Found a bug?** Please report it on [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) (in English). The form asks for
+  everything needed to find the problem.
+- **Have an idea?** Suggest it on [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) as well (English or German). If it is
+  already there, give it a 👍.
+- **Questions and chat:** [Discord](https://discord.gg/rymrdBjQEq).
 
 ### Made with AI
 
@@ -142,7 +147,7 @@ baue Stationskomplexe und führe Flotten von S bis XL.
 
 **Kostenlose Alpha · Windows & Linux · Deutsch & Englisch**
 
-[▶ Trailer](https://www.youtube.com/watch?v=0rezakc2mUE) · [💬 Discord](https://discord.gg/RgVbdfAKJw) · [⬇ Herunterladen](#herunterladen)
+[▶ Trailer](https://www.youtube.com/watch?v=0rezakc2mUE) · [💬 Discord](https://discord.gg/RgVbdfAKJw) · [🐞 Fehler & Ideen](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) · [⬇ Herunterladen](#herunterladen)
 
 ### Das Spiel
 
@@ -218,9 +223,14 @@ für den Datenschutzhinweis (`DATENSCHUTZ.md`) für Betreiber.
 ### Stand
 
 Cauldrift ist in einer **frühen Alpha**. Die Grafik ist ein Prototyp und wird verbessert, einen
-Einzelspielermodus gibt es noch nicht, und an der Balance wird noch gearbeitet. Fehlermeldungen und
-Ideen sind ausdrücklich willkommen: bitte in **#bug-reports** (auf Englisch) und **#ideen** im
-[Discord](https://discord.gg/RgVbdfAKJw).
+Einzelspielermodus gibt es noch nicht, und an der Balance wird noch gearbeitet. Deine Rückmeldung
+ist ausdrücklich willkommen:
+
+- **Fehler gefunden?** Bitte über [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) melden (auf Englisch). Das Formular
+  fragt alles ab, was zum Finden des Fehlers nötig ist.
+- **Eine Idee?** Ebenfalls über [GitHub Issues](https://github.com/Cauldrift/cauldrift-builds/issues/new/choose) vorschlagen (Deutsch oder Englisch). Gibt es
+  sie schon, einfach mit 👍 unterstützen.
+- **Fragen und Austausch:** [Discord](https://discord.gg/RgVbdfAKJw).
 
 ### Mit KI erstellt
 

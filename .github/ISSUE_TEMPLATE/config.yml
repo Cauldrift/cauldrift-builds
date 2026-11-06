@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Questions and chat (Discord, English)
+    url: https://discord.gg/rymrdBjQEq
+    about: Help with installing or hosting, and talking to other players.
+  - name: Fragen und Austausch (Discord, Deutsch)
+    url: https://discord.gg/RgVbdfAKJw
+    about: Hilfe bei Installation und eigenem Server, Austausch mit anderen Spielern.
